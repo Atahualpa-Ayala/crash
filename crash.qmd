@@ -15,6 +15,10 @@ a <- 1+2+3
 
 Agregando datos nuevos
 
+```{r}
+bc <- C(223, 23234, 3234234, 323432)
+```
+
 ## Running Code
 
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
