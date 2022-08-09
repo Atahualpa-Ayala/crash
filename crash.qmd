@@ -9,6 +9,10 @@ editor: visual
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>. bbbbb
 
+```{r}
+a <- 1+2+3
+```
+
 Agregando datos nuevos
 
 ## Running Code
